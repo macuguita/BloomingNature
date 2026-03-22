@@ -187,5 +187,5 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "has_precipitation": false
+  "has_precipitation": true
 }
